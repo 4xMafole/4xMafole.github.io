@@ -1,2 +1,2 @@
 # 4xMafole Portfolio
-This is my career portifolio
+This is my career portfolio
